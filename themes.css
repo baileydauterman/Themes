@@ -1,0 +1,37 @@
+:root {
+    /*************/
+    /* DARK MODE */
+    /*************/
+
+    /* https://realtimecolors.com/?colors=fcfdfd-0e1b17-2e535c-251319-ab6859 */
+    --text: #fcfdfd;
+    --background: #0e1b17;
+    --primary: #2e535c;
+    --secondary: #251319;
+    --accent: #ab6859;
+
+    /* https://realtimecolors.com/?colors=fbfefd-030706-45a5ba-1e0b11-b35742 */
+    --text: #fbfefd;
+    --background: #030706;
+    --primary: #45a5ba;
+    --secondary: #1e0b11;
+    --accent: #b35742;
+
+    /**************/
+    /* LIGHT MODE */
+    /**************/
+
+    /* https://realtimecolors.com/?colors=1f0c0a-f5e3e0-745625-bee5ea-3661a6 */
+    --text: #1f0c0a;
+    --background: #f5e3e0;
+    --primary: #745625;
+    --secondary: #bee5ea;
+    --accent: #3661a6;
+
+    /* https://realtimecolors.com/?colors=140d0a-faf6f5-b3a06b-bfd7de-47598a */
+    --text: #140d0a;
+    --background: #faf6f5;
+    --primary: #b3a06b;
+    --secondary: #bfd7de;
+    --accent: #47598a;
+}
